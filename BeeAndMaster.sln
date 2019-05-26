@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BeeAndMaster", "BeeAndMaster\BeeAndMaster.vbproj", "{24D252B8-3EEC-43A3-8CC1-6219AD121733}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24D252B8-3EEC-43A3-8CC1-6219AD121733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24D252B8-3EEC-43A3-8CC1-6219AD121733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24D252B8-3EEC-43A3-8CC1-6219AD121733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24D252B8-3EEC-43A3-8CC1-6219AD121733}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02D0FCB1-2344-41AE-AE5F-8467F29BB30D}
+	EndGlobalSection
+EndGlobal
